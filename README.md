@@ -33,15 +33,9 @@
 
 ## GitHub Analytics
 <a href="https://github.com/noaregui">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noaregui&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=noaregui&show_icons=true&theme=dark" alt="Dave's github stats"/>
+    <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=noaregui&theme=dark" />
 </a>
-<a href="https://github.com/noaregui">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=noaregui&show_icons=true&theme=dark" alt="Dave's github stats"/>
-</a>
-<a href="https://github.com/noaregui">
-<img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=noaregui&theme=dark" />
-</a>
-
 
 ## Lets connect!
 <a target="_blank" href="https://www.linkedin.com/in/ainhoa-leon-arrieta/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
