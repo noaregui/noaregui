@@ -33,8 +33,8 @@
 
 ## GitHub Analytics
 <a href="https://github.com/noaregui">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=noaregui&show_icons=true&theme=dark" alt="Dave's github stats"/>
-    <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=noaregui&theme=dark" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=noaregui&show_icons=true&theme=dark"/>
+    <img align="right "alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=noaregui&theme=dark" />
 </a>
 
 ## Lets connect!
