@@ -9,9 +9,9 @@
 
 - 🌱 I am always learning and exploring new technologies.
 - 🛠 I love collaborating on community projects, as it allows me to contribute and learn as a team.
-- 💡 I enjoy sharing knowledge about web development and programming; learning in a group is always more enriching.
+- 💡 I enjoy sharing knowledge about web development and programming; learning in a group is always better!
 - 📚 I am open to recommendations on new tools and technologies.
-- 🚀 My favorite programming languages are JavaScript and Python
+- 🚀 My favorite programming languages, for now, are JavaScript and Python.
 <br>
 
 ## Languages and Tools
